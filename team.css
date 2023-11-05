@@ -1,0 +1,31 @@
+
+h1{
+    text-align: center;
+    text-shadow: black;
+}
+.wamik{
+
+    height: 350px;
+    width:350px;
+}
+.AMIT{
+    height: 350px;
+    width:350px;
+}
+body{
+    background-color: bisque;
+    width:cover;
+    height:90vmax;
+    background-repeat: repeat-x;
+    text-align: center;
+    text-shadow: black;
+}
+p{
+    float:center;
+    width: 60vh;
+    height: 40vh;    
+}
+.divone{
+    height:auto;
+    width: auto;
+}
